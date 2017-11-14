@@ -1,0 +1,1 @@
+SnapTrack by Team TEMY, a project created for 2017 Fall HACK112 at Carnegie Mellon University, PA, USA. SnapTrack is a software with which you can snap food and track your daily nutrition intake. It implements Google Cloud Vision API and uses data from USDA Food Database for the nutrition breakdown of the food that the user inputs.
